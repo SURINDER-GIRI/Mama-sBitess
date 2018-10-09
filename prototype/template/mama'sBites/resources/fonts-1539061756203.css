@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("../fonts/Roboto-Light.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-Light.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("../fonts/Roboto-Bold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-Bold.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-Regular.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Roboto-Medium";
+  src: url("../fonts/Roboto-Medium.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-Medium.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Roboto-Italic";
+  src: url("../fonts/Roboto-Italic.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-Italic.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Roboto-BoldItalic";
+  src: url("../fonts/Roboto-BoldItalic.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-BoldItalic.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Forte";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Forte-Regular.ttf")  format("truetype"),
+       url("../fonts/Forte-Regular.otf") format("opentype");
+   font-weight : 400;
+   font-style : normal;
+}
+@font-face {
+  font-family: "FrankRuehl";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/FrankRuehl-Regular.ttf")  format("truetype"),
+       url("../fonts/FrankRuehl-Regular.otf") format("opentype");
+   font-weight : 400;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Mistral";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Mistral-Regular.ttf")  format("truetype"),
+       url("../fonts/Mistral-Regular.otf") format("opentype");
+   font-weight : 400;
+   font-style : normal;
+}
